@@ -1,4 +1,4 @@
-![image](https://github.com/Oviya49/Experiment--05-Implementation-of-flipflops-using-verilog/assets/153576803/e8872db8-8431-49e8-b9a0-9de619ffc324)# Experiment--05-Implementation-of-flipflops-using-verilog
+# Experiment--05-Implementation-of-flipflops-using-verilog
 ### AIM: To implement all the flipflops using verilog and validating their functionality using their functional tables
 ### HARDWARE REQUIRED:  – PC, Cyclone II , USB flasher
 ### SOFTWARE REQUIRED:   Quartus prime
@@ -102,12 +102,12 @@ Q(t+1)=T′Q(t)+TQ(t)′
 ⇒Q(t+1)=T⊕Q(t)
 
 ### Procedure
-
-Open Quartus II and select new project and choose the file location. Step:2 Module Declaration. Module should have the file name.
+```
+Step:1 Open Quartus II and select new project and choose the file location.
+Step:2 Module Declaration. Module should have the file name.
 Step:3 Declare Inputs and outputs. Step:4 Use assign declaration and wire to define the functionality of logic circuits.
 Step:5 End the program with endmodule. Step:6 Run the program and choose RTL viewer to get RTL realization.
-
-
+```
 
 
 ### PROGRAM 
