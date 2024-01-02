@@ -228,5 +228,6 @@ T FLIPFLOP
 
 
 ### RESULTS 
-
+```
 Implementation-of-flipflops-using-verilog successfully completed
+```
